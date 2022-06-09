@@ -32,7 +32,6 @@ Create driver, car, manufacturer:
 * Apache Log4j2 - version 2.17.2
 * JDBC
 * MySQL
-* Custom Injector
 * HTTP Servlet
 * JSP, JSTL
 * HTML, CSS, XML
