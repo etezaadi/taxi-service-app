@@ -1,5 +1,5 @@
 # Taxi Service app
-A simple Web application that demonstrates the principles of OOP and SOLID. Implements authentication using filters based on the user session, and also allows you to interact with data using various CRUD operations. The project was created for educational purposes, to demonstrate software design skills.
+A simple web application that demonstrates the principles of OOP and SOLID, which stimulates the operation of a taxi service. Implements authentication using filters based on the user session, and also allows you to interact with data using various CRUD operations. The project was created for educational purposes, to demonstrate software design skills.
 
 ### Navigation
 -[Description](#description) <br/>
@@ -22,7 +22,7 @@ Convenient and easy navigation on the main page:
 Display drivers, cars, manufacturers and your current cars:
 >![display](https://user-images.githubusercontent.com/94146091/172720920-f517a13f-ddef-4769-85b8-f1c3315be047.png) <br/>
 
-Create driver, car, manufacturer:
+Create driver, car, manufacturer and add driver to car:
 >![create](https://user-images.githubusercontent.com/94146091/172715404-3cf20803-7bc2-48b3-bb01-aa917b7c7bcb.png) <br/>
 
 ## Technologies
