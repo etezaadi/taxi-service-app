@@ -8,9 +8,9 @@ A simple web application that demonstrates the principles of OOP and SOLID, whic
 
 ## Description
 #### Architecture:
-* DAO - Data access layer
+* Controller - Presentation layer
 * Service - Application logic layer
-* Controller - Presentation layer <br/>
+* DAO - Data access layer <br/>
 
 #### Application functionality
 Login using driver's login and password:
